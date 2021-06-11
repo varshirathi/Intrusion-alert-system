@@ -1,7 +1,7 @@
 #include <BoltDeviceCredentials.h>
 #include <BoltIoT-Arduino-Helper.h>
-#define API_KEY     "4b2e1d5e-ead6-4500-8b05-c9ed2db28df1"
-#define DEVICE_ID   "BOLT3848408"
+#define API_KEY     "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+#define DEVICE_ID   "XXXXXXXXXXXXXXXXXXXXXX"
 #define echoPin 2 //  pin D2 Arduino to pin Echo of HC-SR04
 #define trigPin 3 // pin D3 Arduino to pin Trig of HC-SR04
 #define buzz 8 //Buzzer pin connected to pin 8 of Arduino
